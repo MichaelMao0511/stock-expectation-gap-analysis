@@ -16,7 +16,7 @@
 “通用”指支持 Agent Skills 的客户端可复用同一份源码；不代表任何网页聊天产品都能自动下载或加载第三方 Skill。请将整个仓库目录复制或克隆到所用客户端的 Skills 扫描目录，并按该客户端文档重开会话或刷新技能列表。
 
 ```powershell
-git clone https://github.com/<owner>/stock-expectation-gap-analysis.git
+git clone https://github.com/MichaelMao0511/stock-expectation-gap-analysis.git
 ```
 
 安装后可直接这样说：
