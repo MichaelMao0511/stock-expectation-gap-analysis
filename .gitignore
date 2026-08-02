@@ -1,0 +1,31 @@
+# Secrets and local credentials
+.env
+.env.*
+*.pem
+*.key
+*credential*
+*secret*
+*token*
+
+# Private research inputs and generated outputs
+*.csv
+*.xlsx
+*.xls
+*.pdf
+analysis_state.json
+*_预期差分析报告_*.md
+*_深度研究.md
+
+# Local upload and knowledge-base artifacts
+ima_*.json
+ima_*.txt
+do_cos_upload.js
+
+# Distribution artifacts and nested repositories
+*.skill
+**/.git/
+
+# Local tooling
+__pycache__/
+.pytest_cache/
+.DS_Store

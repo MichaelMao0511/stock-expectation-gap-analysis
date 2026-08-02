@@ -1,0 +1,4 @@
+interface:
+  display_name: "预期差分析"
+  short_description: "以公开证据识别单股市场尚未充分定价的预期差与验证条件"
+  default_prompt: "使用 $stock-expectation-gap-analysis 分析贵州茅台 600519.SH 的预期差。"
